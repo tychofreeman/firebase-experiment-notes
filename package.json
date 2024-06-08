@@ -1,0 +1,25 @@
+{
+  "name": "firebase-experiment-notes",
+  "version": "0.0.1",
+  "description": "A simple Firebase experiment",
+  "main": "index.ts",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tychofreeman/firebase-experiment-notes.git"
+  },
+  "author": "Christopher Freeman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tychofreeman/firebase-experiment-notes/issues"
+  },
+  "homepage": "https://github.com/tychofreeman/firebase-experiment-notes#readme",
+  "devDependencies": {
+    "@types/jest": "^29.5.12",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.1.4",
+    "typescript": "^5.4.5"
+  }
+}
